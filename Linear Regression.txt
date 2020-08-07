@@ -1,0 +1,1 @@
+Linear Regression is essentially just a best fit line. Given a set of data the algorithm will create a best fit line through those data points.
